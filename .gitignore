@@ -32,6 +32,5 @@
 *.app
 
 #extra
-*.dev
 *.win
 *.layout
